@@ -1,0 +1,11 @@
+com\mycompany\taller\Observable\Observable.class
+com\mycompany\taller\interfaz\Ventana_A.class
+com\mycompany\taller\Observador\Observador.class
+com\mycompany\taller\Impl.class
+com\mycompany\taller\Observadores\VentanaB.class
+com\mycompany\taller\Observadores\VentanaA.class
+com\mycompany\taller\interfaz\Ventana_A_B.class
+com\mycompany\taller\Observadores\Consola.class
+com\mycompany\taller\Observadores\VentanaAyB.class
+com\mycompany\taller\ObservableInterface\ObservableInterface.class
+com\mycompany\taller\interfaz\Ventana_B.class
